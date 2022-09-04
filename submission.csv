@@ -1,4 +1,7 @@
 id,Expected
+12.jpg,"['Dessert', '']"
+a006.jpeg,"['Apple', '']"
 a009.jpeg,"['Apple', '']"
-a015.jpeg,"['Apple', '']"
-b007.jpeg,"['Banana', '']"
+a6.jpg,"['Dessert', '']"
+a9.jpg,"['Dairy product', '']"
+b009.jpeg,"['Banana', '']"
